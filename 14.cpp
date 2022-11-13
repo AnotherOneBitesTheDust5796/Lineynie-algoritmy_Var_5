@@ -1,5 +1,5 @@
 //A
-/*#include <iostream>
+#include <iostream>
 #include <cmath>
 using namespace std;
 
@@ -19,7 +19,7 @@ int main() {
     return 0;
 }*/
 //Б
-/*#include <iostream>
+#include <iostream>
 #include <cmath>
 using namespace std;
 
@@ -37,4 +37,4 @@ int main() {
     cout << "Itogo: " << e;
 
     return 0;
-}*/
+}
